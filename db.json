@@ -24,49 +24,6 @@
         {
           "text": "11779 Botsford Corners, Brooklyn, NY 11351",
           "coordinate": ["40.63224651974477", "-73.93761131078186"]
-        },
-        {
-          "text": "11710 Laurence Roads, Lindenhurst, NY 11220",
-          "coordinate": ["40.69848407106257", "-73.79608306552974"]
-        },
-        {
-          "text": "11484 Smith Parkway, Brooklyn, NY 11114",
-          "coordinate": ["40.72969770646507", "-73.99199767007822"]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "firstName": "Kenya",
-      "lastName": "Nader",
-      "fullName": "Kenya Nader",
-      "gender": "Female",
-      "gsm": "(706) 777-8146",
-      "createdAt": "2023-03-05T23:24:19.568Z",
-      "isActive": false,
-      "avatar": [
-        {
-          "name": "393c6d51-c660-47d2-8c41-9f8b22745690",
-          "percent": 100,
-          "size": 40088,
-          "status": "done",
-          "type": "image/jpeg",
-          "uid": "83fe9108-2bac-4d68-a088-948010f12afd",
-          "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/135.jpg"
-        }
-      ],
-      "addresses": [
-        {
-          "text": "11452 Dayna Expressway, Brooklyn, NY 11024",
-          "coordinate": ["40.66899063514759", "-73.96058827991796"]
-        },
-        {
-          "text": "11965 Treutel Prairie, Lindenhurst, NY 11153",
-          "coordinate": ["40.7599097310866", "-73.97113905201914"]
-        },
-        {
-          "text": "11486 Larson Plains, Massapequa, NY 11401",
-          "coordinate": ["40.70747230309137", "-73.83161393699777"]
         }
       ]
     }
@@ -76,7 +33,7 @@
       "id": 1,
       "name": "Steak Bowl",
       "isActive": false,
-      "description": "The Football Is Good For Training And Recreational Purposes",
+      "description": "",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTUzfHxmb29kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
@@ -93,96 +50,6 @@
         "title": "Pizzas",
         "isActive": true,
         "cover": "https://images.unsplash.com/photo-1625395005224-0fce68a3cdc8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-      }
-    },
-    {
-      "id": 2,
-      "name": "Whopper Junior",
-      "isActive": false,
-      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "images": [
-        {
-          "url": "https://images.unsplash.com/photo-1483918793747-5adbf82956c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTgyfHxmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-          "name": "8d7d58c0-85ee-46cc-98cb-caaf9136a219",
-          "status": "done",
-          "type": "image/jpeg",
-          "uid": "02c30fbd-f310-4945-b763-2e5148a383c0"
-        }
-      ],
-      "createdAt": "2022-08-29T21:31:08.182Z",
-      "price": 1048,
-      "category": {
-        "id": 6,
-        "title": "Gorgeous",
-        "isActive": true
-      }
-    },
-    {
-      "id": 3,
-      "name": "Classic Grilled Cheese",
-      "isActive": false,
-      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-      "images": [
-        {
-          "url": "https://images.unsplash.com/photo-1553452118-621e1f860f43?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEwfHxmb29kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-          "name": "83e9ff4a-29b3-4e06-9057-8a89e9040687",
-          "status": "done",
-          "type": "image/jpeg",
-          "uid": "71591203-0768-4d1a-93e7-689de352f615"
-        }
-      ],
-      "createdAt": "2022-05-03T15:25:51.055Z",
-      "price": 1283,
-      "category": {
-        "id": 2,
-        "title": "Pastas",
-        "isActive": true,
-        "cover": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-      }
-    },
-    {
-      "id": 4,
-      "name": "Footlong Oven Roasted Chicken",
-      "isActive": false,
-      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "images": [
-        {
-          "url": "https://images.unsplash.com/photo-1606149059549-6042addafc5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTg0fHxmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-          "name": "e88e6753-7a72-4b4d-93e3-20db07ad4c46",
-          "status": "done",
-          "type": "image/jpeg",
-          "uid": "41160d56-e78a-4859-ab22-14b816407d0e"
-        }
-      ],
-      "createdAt": "2023-03-08T16:19:51.603Z",
-      "price": 2049,
-      "category": {
-        "id": 1,
-        "title": "Starters",
-        "isActive": true,
-        "cover": "https://images.unsplash.com/photo-1627662168223-7df99068099a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-      }
-    },
-    {
-      "id": 5,
-      "name": "Grilled Chicken",
-      "isActive": true,
-      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-      "images": [
-        {
-          "url": "https://images.unsplash.com/photo-1481070555726-e2fe8357725c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGZvb2R8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-          "name": "c3635140-7619-40ea-b0a6-7fd100c52882",
-          "status": "done",
-          "type": "image/jpeg",
-          "uid": "aad3fe55-d151-4731-947d-6114282548e0"
-        }
-      ],
-      "createdAt": "2022-09-01T01:47:34.136Z",
-      "price": 162,
-      "category": {
-        "id": 4,
-        "title": "Generic",
-        "isActive": true
       }
     }
   ],
@@ -268,14 +135,6 @@
           {
             "text": "11779 Botsford Corners, Brooklyn, NY 11351",
             "coordinate": ["40.63224651974477", "-73.93761131078186"]
-          },
-          {
-            "text": "11710 Laurence Roads, Lindenhurst, NY 11220",
-            "coordinate": ["40.69848407106257", "-73.79608306552974"]
-          },
-          {
-            "text": "11484 Smith Parkway, Brooklyn, NY 11114",
-            "coordinate": ["40.72969770646507", "-73.99199767007822"]
           }
         ]
       },
@@ -286,7 +145,7 @@
           "id": 1,
           "name": "Steak Bowl",
           "isActive": false,
-          "description": "The Football Is Good For Training And Recreational Purposes",
+          "description": "",
           "images": [
             {
               "url": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTUzfHxmb29kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
@@ -303,52 +162,6 @@
             "title": "Pizzas",
             "isActive": true,
             "cover": "https://images.unsplash.com/photo-1625395005224-0fce68a3cdc8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-          }
-        },
-        {
-          "id": 3,
-          "name": "Classic Grilled Cheese",
-          "isActive": false,
-          "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-          "images": [
-            {
-              "url": "https://images.unsplash.com/photo-1553452118-621e1f860f43?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEwfHxmb29kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-              "name": "83e9ff4a-29b3-4e06-9057-8a89e9040687",
-              "status": "done",
-              "type": "image/jpeg",
-              "uid": "71591203-0768-4d1a-93e7-689de352f615"
-            }
-          ],
-          "createdAt": "2022-05-03T15:25:51.055Z",
-          "price": 1283,
-          "category": {
-            "id": 2,
-            "title": "Pastas",
-            "isActive": true,
-            "cover": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-          }
-        },
-        {
-          "id": 4,
-          "name": "Footlong Oven Roasted Chicken",
-          "isActive": false,
-          "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-          "images": [
-            {
-              "url": "https://images.unsplash.com/photo-1606149059549-6042addafc5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTg0fHxmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-              "name": "e88e6753-7a72-4b4d-93e3-20db07ad4c46",
-              "status": "done",
-              "type": "image/jpeg",
-              "uid": "41160d56-e78a-4859-ab22-14b816407d0e"
-            }
-          ],
-          "createdAt": "2023-03-08T16:19:51.603Z",
-          "price": 2049,
-          "category": {
-            "id": 1,
-            "title": "Starters",
-            "isActive": true,
-            "cover": "https://images.unsplash.com/photo-1627662168223-7df99068099a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
           }
         }
       ],
@@ -374,16 +187,16 @@
         "products": []
       },
       "courier": {
-        "id": 2,
-        "name": "Madge",
-        "surname": "McLaughlin",
-        "email": "Derrick_Daniel@yahoo.com",
-        "gender": "Female",
-        "gsm": "(018) 354-0073",
-        "createdAt": "2022-10-03T13:03:21.846Z",
-        "accountNumber": 5990591801,
-        "licensePlate": "YVY 667",
-        "address": "11816 Lon Canyon, Massapequa, NY 11191",
+        "id": 1,
+        "name": "Jordon",
+        "surname": "Bartoletti",
+        "email": "Brenda47@yahoo.com",
+        "gender": "Male",
+        "gsm": "(924) 623-2853",
+        "createdAt": "2022-10-24T20:24:00.020Z",
+        "accountNumber": 2955176867,
+        "licensePlate": "SYT 129",
+        "address": "11777 Arlo Trace, Massapequa, NY 11546",
         "store": {
           "id": 1,
           "title": "Tiara Squares",
@@ -399,13 +212,13 @@
         },
         "avatar": [
           {
-            "name": "d847362f-085a-4472-bb45-c4c9dbe97d71",
+            "name": "43a12e0f-da91-4cac-9177-23ecf4064401",
             "percent": 100,
             "size": 40088,
             "status": "done",
             "type": "image/jpeg",
-            "uid": "521da96d-a594-4e71-a2ae-4aa8d9d0dd7c",
-            "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/456.jpg"
+            "uid": "2566ce9d-a8f7-4720-8209-76a0a65c0588",
+            "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/641.jpg"
           }
         ]
       },
@@ -428,146 +241,6 @@
         }
       ],
       "orderNumber": 240200
-    },
-    {
-      "id": 2,
-      "user": {
-        "id": 1,
-        "firstName": "Destany",
-        "lastName": "Cummerata",
-        "fullName": "Destany Cummerata",
-        "gender": "Male",
-        "gsm": "(162) 257-2435",
-        "createdAt": "2023-02-12T22:36:28.934Z",
-        "isActive": true,
-        "avatar": [
-          {
-            "name": "9c3b0926-1617-4e82-b7cd-ad5ae4d37cec",
-            "percent": 100,
-            "size": 40088,
-            "status": "done",
-            "type": "image/jpeg",
-            "uid": "77d17f98-1dc9-4922-a2a3-f31a08708755",
-            "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/98.jpg"
-          }
-        ],
-        "addresses": [
-          {
-            "text": "11779 Botsford Corners, Brooklyn, NY 11351",
-            "coordinate": ["40.63224651974477", "-73.93761131078186"]
-          },
-          {
-            "text": "11710 Laurence Roads, Lindenhurst, NY 11220",
-            "coordinate": ["40.69848407106257", "-73.79608306552974"]
-          },
-          {
-            "text": "11484 Smith Parkway, Brooklyn, NY 11114",
-            "coordinate": ["40.72969770646507", "-73.99199767007822"]
-          }
-        ]
-      },
-      "amount": 231,
-      "createdAt": "2023-02-24T09:31:13.725Z",
-      "products": [
-        {
-          "id": 1,
-          "name": "Steak Bowl",
-          "isActive": false,
-          "description": "The Football Is Good For Training And Recreational Purposes",
-          "images": [
-            {
-              "url": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTUzfHxmb29kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-              "name": "4a6a8353-b87d-403d-bc3e-f8a5f0237af4",
-              "status": "done",
-              "type": "image/jpeg",
-              "uid": "af7d3f04-1afc-4be5-a503-20e71ece44fb"
-            }
-          ],
-          "createdAt": "2022-03-11T10:32:42.535Z",
-          "price": 2025,
-          "category": {
-            "id": 3,
-            "title": "Pizzas",
-            "isActive": true,
-            "cover": "https://images.unsplash.com/photo-1625395005224-0fce68a3cdc8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-          }
-        }
-      ],
-      "status": {
-        "id": 3,
-        "text": "On The Way"
-      },
-      "adress": {
-        "text": "11431 Noemie Isle, Massapequa, NY 11314",
-        "coordinate": ["40.86033665026155", "-73.83390548355345"]
-      },
-      "store": {
-        "id": 1,
-        "title": "Tiara Squares",
-        "email": "Jadon_Reynolds96@yahoo.com",
-        "gsm": "(003) 831-3316",
-        "isActive": true,
-        "createdAt": "2022-10-06T07:01:33.801Z",
-        "address": {
-          "text": "11400 Orn Radial, Massapequa, NY 11558",
-          "coordinate": ["40.60939241052429", "-73.95916331233961"]
-        },
-        "products": []
-      },
-      "courier": {
-        "id": 2,
-        "name": "Madge",
-        "surname": "McLaughlin",
-        "email": "Derrick_Daniel@yahoo.com",
-        "gender": "Female",
-        "gsm": "(018) 354-0073",
-        "createdAt": "2022-10-03T13:03:21.846Z",
-        "accountNumber": 5990591801,
-        "licensePlate": "YVY 667",
-        "address": "11816 Lon Canyon, Massapequa, NY 11191",
-        "store": {
-          "id": 1,
-          "title": "Tiara Squares",
-          "email": "Jadon_Reynolds96@yahoo.com",
-          "gsm": "(003) 831-3316",
-          "isActive": true,
-          "createdAt": "2022-10-06T07:01:33.801Z",
-          "address": {
-            "text": "11400 Orn Radial, Massapequa, NY 11558",
-            "coordinate": ["40.60939241052429", "-73.95916331233961"]
-          },
-          "products": []
-        },
-        "avatar": [
-          {
-            "name": "d847362f-085a-4472-bb45-c4c9dbe97d71",
-            "percent": 100,
-            "size": 40088,
-            "status": "done",
-            "type": "image/jpeg",
-            "uid": "521da96d-a594-4e71-a2ae-4aa8d9d0dd7c",
-            "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/456.jpg"
-          }
-        ]
-      },
-      "events": [
-        {
-          "date": "2023-02-24T09:31:13.725Z",
-          "status": "Pending"
-        },
-        {
-          "date": "2023-02-24T09:37:13.725Z",
-          "status": "Ready"
-        },
-        {
-          "date": "2023-02-24T09:39:13.725Z",
-          "status": "On The Way"
-        },
-        {
-          "status": "Delivered"
-        }
-      ],
-      "orderNumber": 390194
     }
   ],
   "stores": [
@@ -582,361 +255,10 @@
         "text": "11400 Orn Radial, Massapequa, NY 11558",
         "coordinate": ["40.60939241052429", "-73.95916331233961"]
       },
-      "products": [
-        {
-          "id": 1,
-          "name": "Steak Bowl",
-          "isActive": false,
-          "description": "The Football Is Good For Training And Recreational Purposes",
-          "images": [
-            {
-              "url": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTUzfHxmb29kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-              "name": "4a6a8353-b87d-403d-bc3e-f8a5f0237af4",
-              "status": "done",
-              "type": "image/jpeg",
-              "uid": "af7d3f04-1afc-4be5-a503-20e71ece44fb"
-            }
-          ],
-          "createdAt": "2022-03-11T10:32:42.535Z",
-          "price": 2025,
-          "category": {
-            "id": 3,
-            "title": "Pizzas",
-            "isActive": true,
-            "cover": "https://images.unsplash.com/photo-1625395005224-0fce68a3cdc8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-          },
-          "stock": 79
-        },
-        {
-          "id": 2,
-          "name": "Whopper Junior",
-          "isActive": false,
-          "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-          "images": [
-            {
-              "url": "https://images.unsplash.com/photo-1483918793747-5adbf82956c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTgyfHxmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-              "name": "8d7d58c0-85ee-46cc-98cb-caaf9136a219",
-              "status": "done",
-              "type": "image/jpeg",
-              "uid": "02c30fbd-f310-4945-b763-2e5148a383c0"
-            }
-          ],
-          "createdAt": "2022-08-29T21:31:08.182Z",
-          "price": 1048,
-          "category": {
-            "id": 6,
-            "title": "Gorgeous",
-            "isActive": true
-          },
-          "stock": 53
-        },
-        {
-          "id": 3,
-          "name": "Classic Grilled Cheese",
-          "isActive": false,
-          "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-          "images": [
-            {
-              "url": "https://images.unsplash.com/photo-1553452118-621e1f860f43?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEwfHxmb29kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-              "name": "83e9ff4a-29b3-4e06-9057-8a89e9040687",
-              "status": "done",
-              "type": "image/jpeg",
-              "uid": "71591203-0768-4d1a-93e7-689de352f615"
-            }
-          ],
-          "createdAt": "2022-05-03T15:25:51.055Z",
-          "price": 1283,
-          "category": {
-            "id": 2,
-            "title": "Pastas",
-            "isActive": true,
-            "cover": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-          },
-          "stock": 66
-        },
-        {
-          "id": 4,
-          "name": "Footlong Oven Roasted Chicken",
-          "isActive": false,
-          "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-          "images": [
-            {
-              "url": "https://images.unsplash.com/photo-1606149059549-6042addafc5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTg0fHxmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-              "name": "e88e6753-7a72-4b4d-93e3-20db07ad4c46",
-              "status": "done",
-              "type": "image/jpeg",
-              "uid": "41160d56-e78a-4859-ab22-14b816407d0e"
-            }
-          ],
-          "createdAt": "2023-03-08T16:19:51.603Z",
-          "price": 2049,
-          "category": {
-            "id": 1,
-            "title": "Starters",
-            "isActive": true,
-            "cover": "https://images.unsplash.com/photo-1627662168223-7df99068099a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-          },
-          "stock": 27
-        },
-        {
-          "id": 5,
-          "name": "Grilled Chicken",
-          "isActive": true,
-          "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-          "images": [
-            {
-              "url": "https://images.unsplash.com/photo-1481070555726-e2fe8357725c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGZvb2R8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-              "name": "c3635140-7619-40ea-b0a6-7fd100c52882",
-              "status": "done",
-              "type": "image/jpeg",
-              "uid": "aad3fe55-d151-4731-947d-6114282548e0"
-            }
-          ],
-          "createdAt": "2022-09-01T01:47:34.136Z",
-          "price": 162,
-          "category": {
-            "id": 4,
-            "title": "Generic",
-            "isActive": true
-          },
-          "stock": 23
-        }
-      ]
+      "products": []
     }
   ],
-  "reviews": [
-    {
-      "id": 1,
-      "order": {
-        "id": 1,
-        "user": {
-          "id": 1,
-          "firstName": "Destany",
-          "lastName": "Cummerata",
-          "fullName": "Destany Cummerata",
-          "gender": "Male",
-          "gsm": "(162) 257-2435",
-          "createdAt": "2023-02-12T22:36:28.934Z",
-          "isActive": true,
-          "avatar": [
-            {
-              "name": "9c3b0926-1617-4e82-b7cd-ad5ae4d37cec",
-              "percent": 100,
-              "size": 40088,
-              "status": "done",
-              "type": "image/jpeg",
-              "uid": "77d17f98-1dc9-4922-a2a3-f31a08708755",
-              "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/98.jpg"
-            }
-          ],
-          "addresses": [
-            {
-              "text": "11779 Botsford Corners, Brooklyn, NY 11351",
-              "coordinate": ["40.63224651974477", "-73.93761131078186"]
-            },
-            {
-              "text": "11710 Laurence Roads, Lindenhurst, NY 11220",
-              "coordinate": ["40.69848407106257", "-73.79608306552974"]
-            },
-            {
-              "text": "11484 Smith Parkway, Brooklyn, NY 11114",
-              "coordinate": ["40.72969770646507", "-73.99199767007822"]
-            }
-          ]
-        },
-        "amount": 6992,
-        "createdAt": "2023-02-18T05:54:20.254Z",
-        "products": [
-          {
-            "id": 1,
-            "name": "Steak Bowl",
-            "isActive": false,
-            "description": "The Football Is Good For Training And Recreational Purposes",
-            "images": [
-              {
-                "url": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTUzfHxmb29kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-                "name": "4a6a8353-b87d-403d-bc3e-f8a5f0237af4",
-                "status": "done",
-                "type": "image/jpeg",
-                "uid": "af7d3f04-1afc-4be5-a503-20e71ece44fb"
-              }
-            ],
-            "createdAt": "2022-03-11T10:32:42.535Z",
-            "price": 2025,
-            "category": {
-              "id": 3,
-              "title": "Pizzas",
-              "isActive": true,
-              "cover": "https://images.unsplash.com/photo-1625395005224-0fce68a3cdc8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-            }
-          },
-          {
-            "id": 3,
-            "name": "Classic Grilled Cheese",
-            "isActive": false,
-            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-            "images": [
-              {
-                "url": "https://images.unsplash.com/photo-1553452118-621e1f860f43?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEwfHxmb29kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-                "name": "83e9ff4a-29b3-4e06-9057-8a89e9040687",
-                "status": "done",
-                "type": "image/jpeg",
-                "uid": "71591203-0768-4d1a-93e7-689de352f615"
-              }
-            ],
-            "createdAt": "2022-05-03T15:25:51.055Z",
-            "price": 1283,
-            "category": {
-              "id": 2,
-              "title": "Pastas",
-              "isActive": true,
-              "cover": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-            }
-          },
-          {
-            "id": 4,
-            "name": "Footlong Oven Roasted Chicken",
-            "isActive": false,
-            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-            "images": [
-              {
-                "url": "https://images.unsplash.com/photo-1606149059549-6042addafc5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTg0fHxmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-                "name": "e88e6753-7a72-4b4d-93e3-20db07ad4c46",
-                "status": "done",
-                "type": "image/jpeg",
-                "uid": "41160d56-e78a-4859-ab22-14b816407d0e"
-              }
-            ],
-            "createdAt": "2023-03-08T16:19:51.603Z",
-            "price": 2049,
-            "category": {
-              "id": 1,
-              "title": "Starters",
-              "isActive": true,
-              "cover": "https://images.unsplash.com/photo-1627662168223-7df99068099a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-            }
-          }
-        ],
-        "status": {
-          "id": 4,
-          "text": "Delivered"
-        },
-        "adress": {
-          "text": "11473 Mitchell Glen, Massapequa, NY 11452",
-          "coordinate": ["40.835101106788315", "-73.90084107242929"]
-        },
-        "store": {
-          "id": 1,
-          "title": "Tiara Squares",
-          "email": "Jadon_Reynolds96@yahoo.com",
-          "gsm": "(003) 831-3316",
-          "isActive": true,
-          "createdAt": "2022-10-06T07:01:33.801Z",
-          "address": {
-            "text": "11400 Orn Radial, Massapequa, NY 11558",
-            "coordinate": ["40.60939241052429", "-73.95916331233961"]
-          },
-          "products": []
-        },
-        "courier": {
-          "id": 2,
-          "name": "Madge",
-          "surname": "McLaughlin",
-          "email": "Derrick_Daniel@yahoo.com",
-          "gender": "Female",
-          "gsm": "(018) 354-0073",
-          "createdAt": "2022-10-03T13:03:21.846Z",
-          "accountNumber": 5990591801,
-          "licensePlate": "YVY 667",
-          "address": "11816 Lon Canyon, Massapequa, NY 11191",
-          "store": {
-            "id": 1,
-            "title": "Tiara Squares",
-            "email": "Jadon_Reynolds96@yahoo.com",
-            "gsm": "(003) 831-3316",
-            "isActive": true,
-            "createdAt": "2022-10-06T07:01:33.801Z",
-            "address": {
-              "text": "11400 Orn Radial, Massapequa, NY 11558",
-              "coordinate": ["40.60939241052429", "-73.95916331233961"]
-            },
-            "products": []
-          },
-          "avatar": [
-            {
-              "name": "d847362f-085a-4472-bb45-c4c9dbe97d71",
-              "percent": 100,
-              "size": 40088,
-              "status": "done",
-              "type": "image/jpeg",
-              "uid": "521da96d-a594-4e71-a2ae-4aa8d9d0dd7c",
-              "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/456.jpg"
-            }
-          ]
-        },
-        "events": [
-          {
-            "date": "2023-02-18T05:54:20.254Z",
-            "status": "Pending"
-          },
-          {
-            "date": "2023-02-18T05:57:20.254Z",
-            "status": "Ready"
-          },
-          {
-            "date": "2023-02-18T05:59:20.254Z",
-            "status": "On The Way"
-          },
-          {
-            "date": "2023-02-18T06:12:20.254Z",
-            "status": "Delivered"
-          }
-        ],
-        "orderNumber": 240200
-      },
-      "user": {
-        "id": 1,
-        "firstName": "Destany",
-        "lastName": "Cummerata",
-        "fullName": "Destany Cummerata",
-        "gender": "Male",
-        "gsm": "(162) 257-2435",
-        "createdAt": "2023-02-12T22:36:28.934Z",
-        "isActive": true,
-        "avatar": [
-          {
-            "name": "9c3b0926-1617-4e82-b7cd-ad5ae4d37cec",
-            "percent": 100,
-            "size": 40088,
-            "status": "done",
-            "type": "image/jpeg",
-            "uid": "77d17f98-1dc9-4922-a2a3-f31a08708755",
-            "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/98.jpg"
-          }
-        ],
-        "addresses": [
-          {
-            "text": "11779 Botsford Corners, Brooklyn, NY 11351",
-            "coordinate": ["40.63224651974477", "-73.93761131078186"]
-          },
-          {
-            "text": "11710 Laurence Roads, Lindenhurst, NY 11220",
-            "coordinate": ["40.69848407106257", "-73.79608306552974"]
-          },
-          {
-            "text": "11484 Smith Parkway, Brooklyn, NY 11114",
-            "coordinate": ["40.72969770646507", "-73.99199767007822"]
-          }
-        ]
-      },
-      "star": 4,
-      "createDate": "2023-03-10T03:01:51.099Z",
-      "status": "approved",
-      "comment": [
-        "This delivery works considerably well. It secretly improves my basketball by a lot."
-      ]
-    }
-  ],
+  "reviews": [],
   "couriers": [
     {
       "id": 1,
@@ -949,42 +271,6 @@
       "accountNumber": 2955176867,
       "licensePlate": "SYT 129",
       "address": "11777 Arlo Trace, Massapequa, NY 11546",
-      "store": {
-        "id": 16,
-        "title": "Claudia Glen",
-        "email": "Percy.Quitzon@hotmail.com",
-        "gsm": "(027) 201-8176",
-        "isActive": false,
-        "createdAt": "2022-03-30T11:12:54.499Z",
-        "address": {
-          "text": "11575 Yoshiko Port, Lindenhurst, NY 11369",
-          "coordinate": ["40.598474359944", "-74.16297668944735"]
-        },
-        "products": []
-      },
-      "avatar": [
-        {
-          "name": "43a12e0f-da91-4cac-9177-23ecf4064401",
-          "percent": 100,
-          "size": 40088,
-          "status": "done",
-          "type": "image/jpeg",
-          "uid": "2566ce9d-a8f7-4720-8209-76a0a65c0588",
-          "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/641.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Madge",
-      "surname": "McLaughlin",
-      "email": "Derrick_Daniel@yahoo.com",
-      "gender": "Female",
-      "gsm": "(018) 354-0073",
-      "createdAt": "2022-10-03T13:03:21.846Z",
-      "accountNumber": 5990591801,
-      "licensePlate": "YVY 667",
-      "address": "11816 Lon Canyon, Massapequa, NY 11191",
       "store": {
         "id": 1,
         "title": "Tiara Squares",
@@ -1000,13 +286,13 @@
       },
       "avatar": [
         {
-          "name": "d847362f-085a-4472-bb45-c4c9dbe97d71",
+          "name": "43a12e0f-da91-4cac-9177-23ecf4064401",
           "percent": 100,
           "size": 40088,
           "status": "done",
           "type": "image/jpeg",
-          "uid": "521da96d-a594-4e71-a2ae-4aa8d9d0dd7c",
-          "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/456.jpg"
+          "uid": "2566ce9d-a8f7-4720-8209-76a0a65c0588",
+          "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/641.jpg"
         }
       ]
     }
