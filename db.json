@@ -17,9 +17,7 @@
     {
       "id": "b6f29524-4d68-4e3d-8533-2724e312e3ab",
       "name": "Customer Name",
-      "institution": "Institution Name",
       "hp": "0987654321",
-      "discount": "",
       "description": "Customer Description",
       "category": {
         "id": "9c57e0b3-4d63-45bd-9dde-94e7990bab1c",
